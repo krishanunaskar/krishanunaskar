@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=montsarat&weight=700&size=21&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=PAID+MINECRAFT+%26+DISCORD+SERVER+DEV" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=PAID+MINECRAFT+%26+DISCORD+SERVER+DEV)](https://git.io/typing-svg)
 <!--
 **krishanunaskar/krishanunaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
