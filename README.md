@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/977802250716078210)](https://discord.com/users/977802250716078210)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=19&pause=1000&center=true&vCenter=true&width=435&lines=PAID+MINECRAFT+%26+DISCORD+SERVER+DEV" alt="Typing SVG" /></a>
 <!--
 **krishanunaskar/krishanunaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
