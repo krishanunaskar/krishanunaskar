@@ -1,34 +1,51 @@
-## Hi there 👋
+### Hey! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="22"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/977802250716078210?hideTag=true&showDisplayName=true)](https://discord.com/users/977802250716078210)
+I'm **Krishanu**, an AI content artist and BCA student from India.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=19&pause=1000&center=true&vCenter=true&width=435&lines=PAID+MINECRAFT+%26+DISCORD+SERVER+DEV" alt="Typing SVG" /></a>
+I combine AI, design, and technical workflows to build creative outputs — especially in modern filmmaking pipelines such as trailers, branded content, short-form edits, and world-building experiments.
+On the technical side, I work on **Minecraft server development**, **Discord systems**, and lightweight automation tools.
 
+**Focus Areas:**
+`AI Film & Creative Tools` • `Minecraft Modding` • `Web & Servers` • `Automation`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krishanunaskar&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krishanunaskar&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishanunaskar&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Recent Work Includes:**
+→ AI-based content studio prototypes
+→ A cinematic Minecraft modpack
+→ Discord utilities & infra tools
+→ Experimental production workflows for short-form content
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krishanunaskar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚙️ Tech & Tools
 
+Not an exhaustive list, but includes:
+`AI Video Tools` • `Python` • `Typescript` • `Node` • `Discord.js` • `Figma` • `Vercel` • `Tailwind` • `Bash`
 
-<!--
-**krishanunaskar/krishanunaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started: 
+## 📊 GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishanuNaskar&show_icons=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishanuNaskar&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Links
+
+→ **Portfolio / Studio:** *coming soon*
+→ **Discord:** *available on request*
+→ **LinkedIn:** *optional, can be added*
+
+---
+
+## Fun Bits
+
+* Doesn’t drink coffee (somehow surviving BCA)
+* Good cinema still hits hard
+* Cooks dinner late at night
+* **Hobbies:** movies, gym, building things
+
+---
