@@ -4,7 +4,7 @@
          width="45" /></h1> </p>
 <p align="center">
 <a href="https://krishanu.is-a.dev/">
-  <img src="buttons/portfolio.png" width="100"/>
+  <img src="buttons/portfolio.png" width="200"/>
 </a>
 <a href="https://www.linkedin.com/in/krishanuop/">
   <img src="buttons/linkedin.png" width="40"/>
