@@ -6,12 +6,15 @@
 <a href="https://krishanu.is-a.dev/">
   <img src="buttons/portfolio.png" width="150"/>
 </a>
+         
 <a href="https://www.linkedin.com/in/krishanuop/">
   <img src="buttons/linkedin.png" width="150"/>
 </a>
+
 <a href="https://www.instagram.com/krishanuop/">
   <img src="buttons/instagram.png" width="170"/>
 </a>
+
 <a href="mailto:hey.krishanu@gmail.com">
   <img src="buttons/gmail.png" width="125"/>
 </a>
