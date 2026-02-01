@@ -1,5 +1,3 @@
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/37bf0faf-916c-40aa-8a31-38dc86f1b020" />
-
 <p align="center"> <h1 align="center"> Hi, I am Krishanu Naskar <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
