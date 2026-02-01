@@ -16,7 +16,7 @@
 </a>
 
 <a href="mailto:hey.krishanu@gmail.com">
-  <img src="buttons/gmail.png" width="125"/>
+  <img src="buttons/gmail.png" width="124"/>
 </a>
 
 I’m **Krishanu**, an AI content artist and creative technologist from India.
