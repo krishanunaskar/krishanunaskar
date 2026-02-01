@@ -13,7 +13,7 @@
   <img src="buttons/instagram.png" width="170"/>
 </a>
 <a href="mailto:hey.krishanu@gmail.com">
-  <img src="buttons/gmail.png" width="100"/>
+  <img src="buttons/gmail.png" width="130"/>
 </a>
 
 
