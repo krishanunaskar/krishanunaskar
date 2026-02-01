@@ -3,11 +3,19 @@
          height="45"
          width="45" /></h1> </p>
 <p align="center">
-<a href="https://krishanu.is-a.dev/"><img src="buttons/portfolio.png"/> </a>
-<a href="https://www.linkedin.com/in/krishanuop/"><img src="buttons/linkedin.png"/> </a>
-<a href="https://www.instagram.com/krishanuop/"><img src="buttons/instagram.png"/> </a>
-<a href="mailto:hey.krishanu@gmail.com"><img src="buttons/gmail.png"/> </a>
-</p>
+<a href="https://krishanu.is-a.dev/">
+  <img src="buttons/portfolio.png" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/krishanuop/">
+  <img src="buttons/linkedin.png" width="40"/>
+</a>
+<a href="https://www.instagram.com/krishanuop/">
+  <img src="buttons/instagram.png" width="40"/>
+</a>
+<a href="mailto:hey.krishanu@gmail.com">
+  <img src="buttons/gmail.png" width="40"/>
+</a>
+
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
