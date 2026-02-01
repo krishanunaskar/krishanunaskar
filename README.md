@@ -31,7 +31,7 @@ I’ve put a few projects on my GitHub, but most of my experiments are private o
 - I don’t drink coffee  
 - Good cinema still hits hard  
 - I cook dinner late at night  
-- **Hobbies:** movies, gym, building things  
+- **Hobbies:** movies, gaming, building things  
 
 #### Links:
 
