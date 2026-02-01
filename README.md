@@ -4,7 +4,7 @@
          width="45" /></h1> </p>
 <p align="center">
 <a href="https://krishanu.is-a.dev/"><img src="buttons/portfolio.png"/> </a>
-<a href="https://www.linkedin.com/in/krishanuop/"><img src="buttons/linkedin.png/> </a>
+<a href="https://www.linkedin.com/in/krishanuop/"><img src="buttons/linkedin.png"/> </a>
 <a href="https://www.instagram.com/krishanuop/"><img src="buttons/instagram.png"/> </a>
 <a href="mailto:hey.krishanu@gmail.com"><img src="buttons/gmail.png"/> </a>
 </p>
