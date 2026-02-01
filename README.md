@@ -16,9 +16,6 @@
   <img src="buttons/gmail.png" width="125"/>
 </a>
 
-
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-
 I’m **Krishanu**, an AI content artist and creative technologist from India.
 
 I work at the intersection of AI, filmmaking and technical workflows — building tools and content pipelines for trailers, branded content, and short-form visual storytelling.
